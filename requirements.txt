@@ -1,6 +1,10 @@
-python-telegram-bot==20.6
-yfinance
-pandas
-numpy
-matplotlib
-requests
+python-telegram-bot==20.5
+httpx==0.24.1
+httpcore==0.17.3
+yfinance==0.2.66
+pandas==2.3.3
+numpy==2.3.4
+matplotlib==3.10.7
+requests==2.32.5
+beautifulsoup4==4.14.2
+curl_cffi==0.13.0
