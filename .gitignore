@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+env/
+venv/
+ENV/
+venv.bak/
+
+# Virtual environments
+venv/
+ENV/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Environment variables
+.env
+.env.* 
+
+# Bot runtime files
+subscribers.json
+last_signal_state.json
+*.log
+
+# Editor configs
+.vscode/
+.idea/
+*.swp
